@@ -1,6 +1,11 @@
 ---
-title: Welcome to Quartz
+title: KB Notes
+description: 
+aliases:
+  - example
+  - test
+draft: false
+tags: 
+date: 17th February 2024
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+The rest of your content lives here. You can use **Markdown** here :) Thats the first page

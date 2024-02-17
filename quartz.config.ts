@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "KB Notes",
+    pageTitle: "📚 KB Notes",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -11,7 +11,14 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "jonashuberts.github.io/kb-notes/",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: [
+      "private",
+      "templates",
+      ".obsidian",
+      ".trash",
+      "templater-obsidian",
+      "better-word-count",
+    ],
     defaultDateType: "modified",
     theme: {
       cdnCaching: true,
