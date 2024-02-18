@@ -1,11 +1,10 @@
 ---
-title: KB Notes
+title: Willkommen auf KB NOTES
 description: 
-aliases:
-  - example
-  - test
+aliases: 
 draft: false
-tags: 
-date: 17th February 2024
+tags: []
+date: 18th February 2024
 ---
-The rest of your content lives here. You can use **Markdown** here :) Thats the first page
+# Inhaltsverzeichnis
+[[Schule - FOS Bayern - 12. Klasse]]
