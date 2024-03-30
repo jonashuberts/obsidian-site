@@ -1,10 +1,15 @@
 ---
-title: Willkommen auf KB NOTES
+title: Willkommen auf KB Notes
 description: 
 aliases: 
 draft: false
-tags: []
+tags: 
 date: 18th February 2024
 ---
 # Inhaltsverzeichnis
-[[Schule - FOS Bayern - 12. Klasse]]
+[[Buissines]]
+[[Coding]]
+[[Hobbys]]
+[[Obsidian]]
+[[School]]
+[[Work]]

@@ -1,0 +1,12 @@
+- Better word count
+- BRAT
+- DataLoom
+- LanguageTool Integration
+- Minimal Theme Settings
+- Plugin Update Tracker
+- Remotely Save
+- Templater
+- Webpage HTML Export
+- Sort & Permute lines
+- Find orphaned files and broken links
+- Recent Files
